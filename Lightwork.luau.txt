@@ -4832,7 +4832,6 @@ function Library:Window(p)
 				end
 			end
 		end)
-		end
 
 	return Tabs
 end
